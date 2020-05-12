@@ -45,3 +45,15 @@ midi3_6
 Am - G - F - Am
 midi4_1
 midi4_2
+midi4_3
+midi4_4
+midi4_5
+midi4_6
+
+C - D - E - D
+midi5_1
+midi5_2
+midi5_3
+midi5_4
+midi5_5
+midi5_6
